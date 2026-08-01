@@ -1,0 +1,17 @@
+#wrapper1
+{
+    display: flex;
+    gap: 15px;
+}
+
+.txt
+{
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 11pt;
+}
+
+.rimuovi
+{
+    display: none;
+}
