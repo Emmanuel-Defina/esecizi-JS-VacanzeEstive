@@ -1,0 +1,10 @@
+#wrapper1
+{
+    display: flex;
+    gap: 15px;
+}
+
+.rimuovi
+{
+    display: none;
+}
